@@ -1,0 +1,26 @@
+{
+  "name": "pigg",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/jest": "^19.2.4",
+    "@types/node": "^7.0.31",
+    "@types/react": "15.0.39",
+    "@types/react-dom": "15.5.1",
+    "@types/react-redux": "4.4.47",
+    "@types/redux": "^3.6.0",
+    "react": "16.0.0-beta.1",
+    "react-dom": "16.0.0-beta.1",
+    "react-redux": "5.0.5",
+    "redux": "3.7.2"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "2.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
